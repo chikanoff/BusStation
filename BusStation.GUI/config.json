@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionStrings": {
+    "BusStationDbConnection": "Server=localhost;Database=busstation;Uid=root;Pwd=1111;"
+  }
+}
+
